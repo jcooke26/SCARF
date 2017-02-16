@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<template>
+	<control>
+		<id>1203</id>
+		<description>
+			Agencies must identify and analyse security risks to their information and systems.
+		</description>
+		<revision>0</revision>
+		<updated>Sep-12</updated>
+		<compliance>MUST</compliance>
+		<authority>AA</authority>
+		<applicability>UD, P, C, S, TS</applicability>
+	</control>
+		<control>
+		<id>1204</id>
+		<description>
+			Security risks deemed unacceptable must be treated.
+		</description>
+		<revision>1</revision>
+		<updated>Feb-14</updated>
+		<compliance>MUST</compliance>
+		<authority>AA</authority>
+		<applicability>UD, P, C, S, TS</applicability>
+	</control>
+	<control>
+		<id>1205</id>
+		<description>
+			Agencies must incorporate the controls contained in the Australian Government Information Security Manual in their security risk management processes.
+		</description>
+		<revision>1</revision>
+		<updated>Feb-14</updated>
+		<compliance>MUST</compliance>
+		<authority>AA</authority>
+		<applicability>UD, P, C, S, TS</applicability>
+	</control>
+</template>
